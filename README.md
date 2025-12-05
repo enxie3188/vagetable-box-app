@@ -88,6 +88,5 @@ vegetable_platform.py: 核心主程式 (包含前端 UI 與後端邏輯)。
 
 requirements.txt: 專案所需的 Python 套件清單。
 
-vegetable_system_v8.db: 系統自動生成的本地資料庫 (不需上傳至 GitHub)。
 
 Created with Python & Streamlit
